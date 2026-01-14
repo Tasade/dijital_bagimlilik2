@@ -3,3 +3,6 @@ pandas
 numpy
 matplotlib
 plotly
+scipy
+statsmodels
+scikit-learn
